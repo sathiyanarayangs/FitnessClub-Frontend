@@ -1,0 +1,19 @@
+.navbar-brand {
+    letter-spacing: 3px;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+body {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.dull-image {
+    filter: brightness(70%) saturate(80%);
+}
+
+.login-bg {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
